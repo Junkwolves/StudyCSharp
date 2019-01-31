@@ -10,3 +10,5 @@ CSharp study process
 -       [DONE] Lesson_4
 
 -       [DONE] Lesson_5
+
+-       [DONE] Lesson_6
