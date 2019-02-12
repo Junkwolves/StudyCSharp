@@ -1,6 +1,14 @@
 # StudyCSharp
 CSharp study process
 
+> ###                Homework
+
+<ol type="1">
+ <li><strike>HW_1_Lesson_8</strike></li>
+</ol>
+
+<hr>
+
 -       [DONE] Lesson_1
 
 -       [DONE] Lesson_2
